@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\",
+  "WorkspaceRootPath": "C:\\Users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\users\\asyost\\desktop\\ra_cicd_final\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\unittesting_consoleapp\\unittestscripts\\unittestscript_aoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\unittesting_consoleapp\\unittestscripts\\unittestscript_aoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:unittesting_consoleapp\\unittestscripts\\unittestscript_aoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\users\\asyost\\desktop\\ra_cicd_final\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\unittesting_consoleapp\\unittestscripts\\unittestscript_fullapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\unittesting_consoleapp\\unittestscripts\\unittestscript_fullapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:unittesting_consoleapp\\unittestscripts\\unittestscript_fullapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\users\\asyost\\desktop\\ra_cicd_final\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\unittesting_consoleapp\\unittestprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\unittesting_consoleapp\\unittestprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:unittesting_consoleapp\\unittestprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\users\\asyost\\desktop\\ra_cicd_final\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\unittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|c:\\users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\unittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D0B92E4F-45C9-4E50-B0B0-6F8DFD572A99}|UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj|solutionrelative:unittesting_consoleapp\\unittesting_consoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UnitTesting_ConsoleApp",
-              "DocumentMoniker": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "RelativeDocumentMoniker": "UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
-              "ToolTip": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "RelativeToolTip": "UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-15T02:17:57.041Z"
@@ -43,9 +43,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UnitTestProgram.cs",
-              "DocumentMoniker": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestProgram.cs",
+              "DocumentMoniker": "C:\\Users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestProgram.cs",
               "RelativeDocumentMoniker": "UnitTesting_ConsoleApp\\UnitTestProgram.cs",
-              "ToolTip": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestProgram.cs",
+              "ToolTip": "C:\\Users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestProgram.cs",
               "RelativeToolTip": "UnitTesting_ConsoleApp\\UnitTestProgram.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAgwHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,24 +55,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UnitTestScript_FullApp.cs",
-              "DocumentMoniker": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_FullApp.cs",
+              "DocumentMoniker": "C:\\Users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_FullApp.cs",
               "RelativeDocumentMoniker": "UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_FullApp.cs",
-              "ToolTip": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_FullApp.cs",
+              "ToolTip": "C:\\Users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_FullApp.cs",
               "RelativeToolTip": "UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_FullApp.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAhwCwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T04:45:14.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T04:45:14.2Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTestScript_AOI.cs",
-              "DocumentMoniker": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_AOI.cs",
+              "DocumentMoniker": "C:\\Users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_AOI.cs",
               "RelativeDocumentMoniker": "UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_AOI.cs",
-              "ToolTip": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_AOI.cs",
+              "ToolTip": "C:\\Users\\gotc\\source\\repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_AOI.cs",
               "RelativeToolTip": "UnitTesting_ConsoleApp\\UnitTestScripts\\UnitTestScript_AOI.cs",
-              "ViewState": "AgIAANcAAAAAAAAAAAAOwNwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:45:13.38Z",
               "EditorCaption": ""
