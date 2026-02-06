@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASYost\\.nuget\\packages\\": {}
+    "C:\\Users\\gotc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
       "projectName": "ConsoleFormatter_ClassLibrary",
-      "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
-      "packagesPath": "C:\\Users\\ASYost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\obj\\",
+      "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
+      "packagesPath": "C:\\Users\\gotc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ASYost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gotc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files (x86)\\Rockwell Automation SDKs": {},
+        "C:\\Program Files\\Rockwell Automation SDKs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,7 +51,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -67,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

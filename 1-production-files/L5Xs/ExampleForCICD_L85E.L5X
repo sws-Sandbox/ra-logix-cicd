@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<RSLogix5000Content SchemaRevision="1.0" SoftwareRevision="36.00" TargetName="ExampleWithCICD_L85E" TargetType="Controller" ContainsContext="false" ExportDate="Fri Nov 15 01:11:39 2024" ExportOptions="NoRawData L5KData DecoratedData ForceProtectedEncoding AllProjDocTrans">
-<Controller Use="Target" Name="ExampleWithCICD_L85E" ProcessorType="1756-L85E" MajorRev="36" MinorRev="11" MajorFaultProgram="PXX_FaultHandler" ProjectCreationDate="Fri Nov 15 01:11:00 2024" LastModifiedDate="Fri Nov 15 01:11:20 2024" SFCExecutionControl="CurrentActive" SFCRestartPosition="MostRecent" SFCLastScan="DontScan"
+<RSLogix5000Content SchemaRevision="1.0" SoftwareRevision="36.00" TargetName="ExampleWithCICD_L85E" TargetType="Controller" ContainsContext="false" ExportDate="Tue Apr 15 09:06:53 2025" ExportOptions="NoRawData L5KData DecoratedData ForceProtectedEncoding AllProjDocTrans">
+<Controller Use="Target" Name="ExampleWithCICD_L85E" ProcessorType="1756-L85E" MajorRev="36" MinorRev="11" MajorFaultProgram="PXX_FaultHandler" ProjectCreationDate="Tue Apr 15 09:05:08 2025" LastModifiedDate="Tue Apr 15 09:06:35 2025" SFCExecutionControl="CurrentActive" SFCRestartPosition="MostRecent" SFCLastScan="DontScan"
  CommPath="EmulateEthernet\127.0.0.1" ProjectSN="16#0000_0000" MatchProjectToController="false" CanUseRPIFromProducer="false" InhibitAutomaticFirmwareUpdate="0" PassThroughConfiguration="EnabledWithAppend" DownloadProjectDocumentationAndExtendedProperties="true" DownloadProjectCustomProperties="true" ReportMinorOverflow="false" AutoDiagsEnabled="true" WebServerEnabled="false"
 >
 <RedundancyInfo Enabled="false" KeepTestEditsOnSwitchOver="false"/>
@@ -466,7 +466,7 @@ Showcase the data types that can be used by the LDSDK.]]>
 </Rung>
 <Rung Number="6" Type="N">
 <Text>
-<![CDATA[XIC(I_ToggleEnable_LocalTag)[XIC(I_ToggleSTRING_LocalTag) MOVE(UpperBound_STRING,O_STRING_LocalTag) ,XIO(I_ToggleSTRING_LocalTag) MOVE(LowerBound_STRING,O_STRING_LocalTag) ];]]>
+<![CDATA[XIC(I_ToggleEnable_LocalTag)[XIC(I_ToggleSTRING_LocalTag) MOVE(UpperBound_STRING,O_STRING_LocalTag) ,XIC(I_ToggleSTRING_LocalTag) MOVE(UpperBound_STRING,O_STRING_LocalTag) ,XIO(I_ToggleSTRING_LocalTag) MOVE(LowerBound_STRING,O_STRING_LocalTag) ];]]>
 </Text>
 </Rung>
 </RLLContent>

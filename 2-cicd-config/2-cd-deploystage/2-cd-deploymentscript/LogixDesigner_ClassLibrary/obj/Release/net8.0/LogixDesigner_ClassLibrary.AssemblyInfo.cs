@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogixDesigner_ClassLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b99902ecaa8ee7f503e47afe7c35f98fc80f3d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66d75931c92c02417593398983f842e694e85e03")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogixDesigner_ClassLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogixDesigner_ClassLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
