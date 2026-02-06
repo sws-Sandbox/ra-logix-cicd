@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj": {}
+    "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj": {
+    "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
         "projectName": "ConsoleFormatter_ClassLibrary",
-        "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\ASYost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\obj\\",
+        "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\gotc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ASYost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gotc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Rockwell Automation SDKs": {},
+          "C:\\Program Files\\Rockwell Automation SDKs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -61,21 +66,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj": {
+    "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj",
         "projectName": "LogixDesigner_ClassLibrary",
-        "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\ASYost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\obj\\",
+        "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\gotc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ASYost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gotc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,15 +92,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Rockwell Automation SDKs": {},
+          "C:\\Program Files\\Rockwell Automation SDKs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj"
+              "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj"
               }
             }
           }
@@ -105,7 +114,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -132,21 +142,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
+    "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
         "projectName": "LogixEcho_ClassLibrary",
-        "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\ASYost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\obj\\",
+        "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\gotc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ASYost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gotc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,7 +168,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Rockwell Automation SDKs": {},
+          "C:\\Program Files\\Rockwell Automation SDKs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -172,7 +186,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net6.0": {
@@ -199,21 +214,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj": {
+    "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
         "projectName": "UnitTesting_ConsoleApp",
-        "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\ASYost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\obj\\",
+        "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\UnitTesting_ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\gotc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\UnitTesting_ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ASYost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gotc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -221,21 +240,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\Rockwell Automation SDKs": {},
+          "C:\\Program Files\\Rockwell Automation SDKs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj"
+              "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\ConsoleFormatter_ClassLibrary\\ConsoleFormatter_ClassLibrary.csproj"
               },
-              "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj"
+              "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixDesigner_ClassLibrary\\LogixDesigner_ClassLibrary.csproj"
               },
-              "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj"
+              "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\gotc\\Source\\Repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj"
               }
             }
           }
@@ -249,7 +268,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -280,7 +300,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

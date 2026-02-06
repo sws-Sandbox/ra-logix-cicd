@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleFormatter_ClassLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a16dd1a593dcb54d4bec8e69b8d35c1101fb406a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66d75931c92c02417593398983f842e694e85e03")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleFormatter_ClassLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleFormatter_ClassLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
